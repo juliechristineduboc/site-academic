@@ -6,21 +6,22 @@ title: Julie-Christine Duboc
 superuser: true
 
 # Role/position/tagline
-role: Psychologue / Psychothérapeute  Thérapeute Psychocorporelle  Sophrologue-Relaxologue
+role: Psychologue, Psychothérapeute, Thérapeute Psychocorporelle, Sophrologue-Relaxologue
 
 # Organizations/Affiliations to show in About widget
 # organizations:
 # - name: Stanford University
 #   url: https://www.stanford.edu/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
 - Traumatologie
 - Victimologie
 - Neurosciences
+- Thérapies psycho-corporelles
 
 # Education to show in About widget
 education:
@@ -28,7 +29,7 @@ education:
   - course: Master Psychologie Clinique et Psychothérapie
     institution: IED Université Paris 8
     year: 2016
-  - course: Master 1 Psychologie Clinique
+  - course: Master 1 Psychologie Clinique: Violence, Traumatisme et Prévention
     institution: Université de Rouen
     year: 2012
   - course: Diplôme Universitaire de Victimologie
@@ -76,7 +77,8 @@ email: ""
 highlight_name: false
 ---
 
-Julie-Christine Duboc a tout d'abord exercé comme chercheure en Mathématiques au CNRS. Puis les traumatismes de son enfance ont provoqué un trouble de ... complexe. julie-Christine Duboc s'est alors consacré. julie-christine Duboc a aujourd'hui écrit son parcours de vicitme dans un livre.
-Julie-Christine Duboc exerce depuis 1997 en tant que thérapeute, depuis 2002 en tant que thérapeute psychocorporelle et elle est également psychologue depuis 2016.Julie-Christine Duboc
+Julie-Christine Duboc a tout d'abord exercé en tant que chercheure en Mathématiques au CNRS. Puis les traumatismes de son enfance ont provoqué un trouble de stress post-traumatique complexe. Julie-Christine Duboc s'est alors consacré à sa reconstruction, tout en se formant à des techniques de thérapies psycho-corporelles et à la psychologie. 
+Julie-Christine Duboc exerce depuis 1997 en tant que thérapeute, depuis 2002 en tant que thérapeute psychocorporelle et elle est également psychologue et psychothérapeute depuis 2016.
+Julie-Christine Duboc a aujourd'hui écrit son parcours de victime dans un livre à paraître, intitulé: Incestée, Le parcours d'une victime'.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

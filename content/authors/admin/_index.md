@@ -6,7 +6,7 @@ title: Julie-Christine Duboc
 superuser: true
 
 # Role/position/tagline
-role: Psychologue / Psychothérapeute
+role: Psychologue / Psychothérapeute / Thérapeute Psychocorporelle / Sophrologue-Relaxologue
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,14 +20,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Traumatologie
 - Victimologie
+- Neurosciences
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Master Psychologie Clinique et Psychothérapie
+    institution: IED Université Paris 8
     year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: Master 1 Psychologie Clinique
     institution: Massachusetts Institute of Technology
     year: 2009
   - course: BSc in Artificial Intelligence

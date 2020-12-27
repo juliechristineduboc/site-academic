@@ -6,7 +6,7 @@ title: Julie-Christine Duboc
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Psychologue / Psychothérapeute
 
 # Organizations/Affiliations to show in About widget
 organizations:

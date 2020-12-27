@@ -6,7 +6,7 @@ title: Julie-Christine Duboc
 superuser: true
 
 # Role/position/tagline
-role: Psychologue / Psychothérapeute / Thérapeute Psychocorporelle / Sophrologue-Relaxologue
+role: Psychologue / Psychothérapeute  Thérapeute Psychocorporelle  Sophrologue-Relaxologue
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,13 +27,19 @@ education:
   courses:
   - course: Master Psychologie Clinique et Psychothérapie
     institution: IED Université Paris 8
-    year: 2012
+    year: 2016
   - course: Master 1 Psychologie Clinique
-    institution: Massachusetts Institute of Technology
+    institution: Université de Rouen
+    year: 2012
+  - course: Diplôme Universitaire de Victimologie
+    institution: Université Paris-Descartes
+    year: 2020
+  - course: Diplôme de Formation Supérieure en Relation d'Aide et Ressources Humaines
+    institution: Collège Universitaire Privé de Sciences Humaines
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Diplôme de Formation Supérieure de Psychologie Transpersonnelle
+    institution: Collège Universitaire Privé de Sciences Humaines
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -77,6 +77,6 @@ highlight_name: false
 ---
 
 Julie-Christine Duboc a tout d'abord exercé comme chercheure en Mathématiques au CNRS. Puis les traumatismes de son enfance ont provoqué un trouble de ... complexe. julie-Christine Duboc s'est alors consacré. julie-christine Duboc a aujourd'hui écrit son parcours de vicitme dans un livre.
-Julie-Christine Duboc exerce depuis 1997 en tant que thérapeute, depuis 2002 en tant que thérapeute psychocorporelle et elle est également psychologue depuis 2016.
+Julie-Christine Duboc exerce depuis 1997 en tant que thérapeute, depuis 2002 en tant que thérapeute psychocorporelle et elle est également psychologue depuis 2016.Julie-Christine Duboc
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

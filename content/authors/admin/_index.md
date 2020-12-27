@@ -7,11 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: Psychologue / Psychothérapeute
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+Thérapeute Psychocorporelle
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -20,19 +16,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Traumatologie
 - Victimologie
+- Neurosciences
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Diplôme d'Université de Victimologie
+    institution: Université Paris Descartes
+    year: 2020
+  - course: Master 2 Psychologie Clinique et Psychothérapies
+    institution: IED Université Paris 8
+    year: 2016
+  - course: Master 1 Psychologie Clinique et Psychothérapies
+    institution: IED Université Paris 8
+    year: 2014
+  - course: Master 1 Psychologie Clinique: Violence, Traumatisme et Prévention
+    institution: Université de Rouen
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,7 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Julie-Christine 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 

@@ -6,8 +6,7 @@ title: Julie-Christine Duboc
 superuser: true
 
 # Role/position/tagline
-role: Psychologue / Psychothérapeute
-Thérapeute Psychocorporelle
+role: Psychologue / Psychothérapeute / Thérapeute Psychocorporelle
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

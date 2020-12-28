@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Pour quoi ?
-subtitle: "Si vous souffrez de"
+subtitle: Si vous souffrez de
 
 content:
   # Page type to display. E.g. post, talk, publication...

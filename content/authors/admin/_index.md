@@ -17,13 +17,13 @@ role: Psychologue / Psychothérapeute  Thérapeute Psychocorporelle  Sophrologue
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
+intérêts:
 - Traumatologie
 - Victimologie
 - Neurosciences
 
 # Education to show in About widget
-education:
+formations:
   courses:
   - course: Master Psychologie Clinique et Psychothérapie
     institution: IED Université Paris 8
